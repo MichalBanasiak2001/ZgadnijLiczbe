@@ -1,4 +1,4 @@
-﻿//Program napisany przez Michała Banasiaka
+﻿//Program napisany przez Michała Banasiaka 122669
 
 
 class Program
