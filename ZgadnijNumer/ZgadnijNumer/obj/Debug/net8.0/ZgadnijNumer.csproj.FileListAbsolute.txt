@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\bin\Debug\net8.0\ZgadnijNumer.exe
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\bin\Debug\net8.0\ZgadnijNumer.deps.json
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\bin\Debug\net8.0\ZgadnijNumer.runtimeconfig.json
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\bin\Debug\net8.0\ZgadnijNumer.dll
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\bin\Debug\net8.0\ZgadnijNumer.pdb
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\ZgadnijNumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\ZgadnijNumer.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\ZgadnijNumer.AssemblyInfo.cs
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\ZgadnijNumer.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\ZgadnijNumer.dll
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\refint\ZgadnijNumer.dll
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\ZgadnijNumer.pdb
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\ZgadnijNumer.genruntimeconfig.cache
+C:\Users\micha\source\repos\ZgadnijNumer\ZgadnijNumer\obj\Debug\net8.0\ref\ZgadnijNumer.dll
